@@ -8,3 +8,6 @@
 
 
 sucessfully triggerd with 15 min cron node
+
+
+sucessfully triggerd with 6 min cron node
