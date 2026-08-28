@@ -8,3 +8,5 @@
 
 
 updated the file with cron node
+
+sucessfully triggerd with 6 min cron node
